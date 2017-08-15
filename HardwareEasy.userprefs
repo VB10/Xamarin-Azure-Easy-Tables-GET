@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{DDF8CDE0-2992-4EA9-8482-10F15A875AEB}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="HardwareEasy/HardwareEasyPage.xaml" Line="1" Column="1" />
+      <File FileName="HardwareEasy/Service/ApiManager.cs" Line="24" Column="32" />
+      <File FileName="HardwareEasy/HardwareEasyPage.xaml.cs" Line="14" Column="15" />
+      <File FileName="iOS/Main.cs" Line="17" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.HardwareEasy.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.F3155ABB-D022-45EE-9CCD-76BFFE2AA820" />
+</Properties>
